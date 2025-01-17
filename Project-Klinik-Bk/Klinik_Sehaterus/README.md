@@ -1,18 +1,12 @@
 # Regulation
-<h1>Rony Irfannandhy</h1>
-<h1>db: poli_bk, import 'poli_bk.sql'</h1>
+<h1>Muhammad Hafizh Abdullah</h1>
+<h1>db: klinik_bk, import 'klinik_bk.sql'</h1>
 <h2>Sample of Login Credentials</h2>
 <h3>DATABASE</h3>
 <h3>LOGIN ADMIN</h3>
-username : Rony<br>
-password : rony
+username : dewa<br>
+password : 2727
 <br>
-<h3>LOGIN DOKTER</h3>
-NIP : 16782235<br>
-password : dr. Rony Irfan
-<br>
-<h3>Periksa pasien</h3>
-2024-06-27-11
 
 # Language
 PHP
